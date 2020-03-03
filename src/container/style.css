@@ -1,0 +1,22 @@
+.Stopwatch{
+    display: flex;
+    justify-content: center;
+    padding: 300px 550px;
+    flex-direction: column;
+    
+}
+.btn{
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: white;
+}
+.stopwatch-time {
+    margin-bottom: 50px;
+    margin-left: 40px;
+    border:solid 2px lightblue;
+    margin-right: 30px;
+}
+.Stopwatch-display{
+    border:solid 5px;
+    margin-right: 619px;
+}
